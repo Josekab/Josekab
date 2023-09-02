@@ -5,7 +5,8 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨‍💻 All of my projects are available at (https://josekab.github.io/portfolioo/)
+- 👨‍💻 All of my projects are available at <a href="https://josekab.github.io/portfolioo/">MY PORTFOLIO</a>
+
 - 🌱 I’m currently learning...
 - 💬 Ask me about anything, I am happy to help!
 
