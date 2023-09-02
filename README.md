@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josekab&label=Profile%20views&color=0e75b6&style=flat" alt="josekab" /> </p>
 <h3 align="center">A passionate developer from Costa Rica!</h3>
 
-
+<h3 align="left">About me:</h3>
 - 👨‍💻 All of my projects are available at [https://josekab.github.io/portfolioo/](https://josekab.github.io/portfolioo/)<img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="400" align="right"/>
 
 
