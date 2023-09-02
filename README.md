@@ -6,7 +6,8 @@
 - 👨‍💻 All of my projects are available at (https://josekab.github.io/portfolioo/)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="400" align="right"/>
+
 <p align="left">
 <a href="https://twitter.com/josecbc04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josecbc04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/josecarlosbarrantescarranza4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josecarlosbarrantescarranza4" height="30" width="40" /></a>
