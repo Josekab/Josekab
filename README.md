@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
 <h3 align="center">A passionate developer from Costa Rica!</h3>
 
-- 👨‍💻 All of my projects are available at [https://josekab.github.io/portfolioo/](https://josekab.github.io/portfolioo/)<img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="400" align="right"
+- 👨‍💻 All of my projects are available at [https://josekab.github.io/portfolioo/](https://josekab.github.io/portfolioo/)<img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="400" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josekab&label=Profile%20views&color=0e75b6&style=flat" alt="josekab" /> </p>
 
