@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
+<img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="400" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josekab&label=Profile%20views&color=0e75b6&style=flat" alt="josekab" /> </p>
 <h3 align="center">A passionate developer from Costa Rica!</h3>
 
@@ -6,7 +7,7 @@
 - 👨‍💻 All of my projects are available at (https://josekab.github.io/portfolioo/)
 
 
-<h3 align="left">Connect with me:</h3><img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="400" align="right"/>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/josecbc04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josecbc04" height="30" width="40" /></a>
