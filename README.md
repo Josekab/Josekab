@@ -6,7 +6,8 @@
 <h3 align="left">About me:</h3>
 
 - 👨‍💻 All of my projects are available at (https://josekab.github.io/portfolioo/)
-- 🌱 I’m currently learning MERN Stack Development.
+- 🌱 I’m currently learning...
+- 💬 Ask me about anything, I am happy to help!
 
 
 <h3 align="left">Connect with me:</h3>
