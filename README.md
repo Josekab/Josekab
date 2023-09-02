@@ -3,7 +3,9 @@
 <h3 align="center">A passionate developer from Costa Rica!</h3>
 <img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="400" align="right"/>
 <h3 align="left">About me:</h3>
+### I am a Systems Engineer
 - 👨‍💻 All of my projects are available at (https://josekab.github.io/portfolioo/)
+- 🌱 I’m currently learning MERN Stack Development.
 
 
 <h3 align="left">Connect with me:</h3>
