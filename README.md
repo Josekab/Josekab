@@ -54,13 +54,9 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 
-<div style="display: inline-block; text-align: left;">
-  <h3>Tools:</h3>
-</div>
-<div style="display: inline-block; text-align: right;">
-  <h3>Software:</h3>
-</div>
 
+
+<h3 align="left">Tools:</h3>
 
 
 <p align="left"> 
@@ -74,8 +70,8 @@
 
 <!--<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,aws,ai,ps" />
-  </a>
-</p>-->
+  </a>-->
+</p>
 
 <h3 align="left">Operating Systems: </h3>
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
