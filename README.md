@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=josekab&label=Profile%20views&color=0e75b6&style=flat" alt="josekab" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/josekab?style=social"> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/josekab?style=social"> &nbsp;&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/josecarlosbarrantescarranza4)](https://linkedin.com/in/josecarlosbarrantescarranza4) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/josecarlosbarrantescarranza4)]
 
   
 </p>
