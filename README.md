@@ -2,7 +2,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=josekab&label=Profile%20views&color=0e75b6&style=flat" alt="josekab" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/josekab?style=social"> 
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/josekab?style=social">&nbsp;&nbsp;
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/josekab?style=social">
 <a href="https://linkedin.com/in/josecarlosbarrantescarranza4" target="_blank">
   <img src="https://img.shields.io/badge/-JoseBarrantes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
@@ -64,10 +64,10 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 
-<a href="https://skillicons.dev">
+<!--<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,aws,ai,ps" />
   </a>
-</p>
+</p>-->
 
 <h3 align="left">Operating Systems: </h3>
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
@@ -81,4 +81,7 @@
 </div>
 
 ## <img src="https://media.tenor.com/Cu0p-GeZHVQAAAAi/love-you.gif" width="42px"> Support
-<p><a href="https://www.buymeacoffee.com/josekab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josekab" /></a><a href="https://ko-fi.com/josekab"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="josekab" /></a></p><br><br>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/josekab"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josekab" /></a>&nbsp;&nbsp;
+  <a href="https://ko-fi.com/josekab"> <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="josekab" /></a><br><br>
+</div>
