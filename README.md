@@ -6,8 +6,10 @@
 <a href="https://linkedin.com/in/josecarlosbarrantescarranza4" target="_blank">
   <img src="https://img.shields.io/badge/-JoseBarrantes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
+<a href="https://twitter.com/josecbc04" target="_blank">
+  <img src="https://img.shields.io/badge/-josecbc04-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge">
+</a>
 
-[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
 
 </p>
 <h3 align="center">A passionate developer from Costa Rica!</h3>
