@@ -38,12 +38,11 @@
 - 🔭 I’m currently working on my side projects
 - 💬 Ask me about anything, I am happy to help!
 - 😄 Hobbies: Video Games!
-- ⚡ Fun fact: I'm an Aries. I have no fear of diving headfirst into the unknown🐏✨
+- ⚡ Fun fact: I'm an Aries. I have no fear of diving headfirst into the unknown✨
+
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
