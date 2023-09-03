@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josekab&label=Profile%20views&color=0e75b6&style=flat" alt="josekab" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/josekab?style=social"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josekab&label=Profile%20views&color=0e75b6&style=flat" alt="josekab" /> &nbsp;&nbsp;
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/josekab?style=social">  &nbsp;&nbsp;
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/josekab?style=social"> &nbsp;&nbsp;
 </p>
 <h3 align="center">A passionate developer from Costa Rica!</h3>
