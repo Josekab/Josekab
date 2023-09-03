@@ -7,7 +7,19 @@
   <img src="https://img.shields.io/badge/-JoseBarrantes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 <a href="https://twitter.com/josecbc04" target="_blank">
-  <img src="https://img.shields.io/badge/-josecbc04-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge">
+  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge">
+</a>
+<a href="https://instagram.com/joseekab" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge">
+</a>
+<a href="https://www.facebook.com/tucuenta" target="_blank">
+  <img src="https://img.shields.io/badge/-tucuenta-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge">
+</a>
+<a href="https://www.youtube.com/c/joseekab" target="_blank">
+  <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
+</a>
+<a href="https://discord.gg/WCYDuFKW" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord Badge">
 </a>
 
 
