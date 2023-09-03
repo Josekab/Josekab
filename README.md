@@ -63,13 +63,3 @@
 
 ## <img src="https://media.tenor.com/Ui4AT07IoKIAAAAi/star-spin.gif" width="50px"> Support
 <p><a href="https://www.buymeacoffee.com/josekab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josekab" /></a><a href="https://ko-fi.com/josekab"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="josekab" /></a></p><br><br>
-
-## <img src="https://media.tenor.com/Ui4AT07IoKIAAAAi/star-spin.gif" width="50px"> Connect with me:
-<p align="left">
-<a href="https://twitter.com/josecbc04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josecbc04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josecarlosbarrantescarranza4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josecarlosbarrantescarranza4" height="30" width="40" /></a>
-<a href="https://fb.com/josecarlos.barrantes.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josecarlos.barrantes.4" height="30" width="40" /></a>
-<a href="https://instagram.com/joseekab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joseekab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joseekab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joseekab" height="30" width="40" /></a>
-<a href="https://discord.gg/WCYDuFKW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WCYDuFKW" height="30" width="40" /></a>
-</p>
