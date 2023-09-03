@@ -27,11 +27,11 @@
 <h3 align="center">A passionate developer from Costa Rica!</h3>
 
 
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+## <picture><img src = "https://media.tenor.com/PYW-H6CuM6AAAAAi/shake-mochi-cat.gif" width =42px></picture> **About me**
 <img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="350" align="right"/>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English/Spanish-dodgerblue" />
 </p>
 
 - 👨‍💻 All of my projects are available at <a href="https://josekab.github.io/portfolioo/">MY PORTFOLIO</a>
@@ -43,7 +43,7 @@
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="42"><b> Skills</b>
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -66,11 +66,11 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 </p>
 
-## <img src="https://media.tenor.com/Ui4AT07IoKIAAAAi/star-spin.gif" width="50px"> About Some Stats
+## <img src="https://media.tenor.com/Ui4AT07IoKIAAAAi/star-spin.gif" width="42px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josekab&show_icons=true&locale=en&layout=compact" alt="josekab" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josekab&show_icons=true&locale=en" alt="josekab" />
 </div>
 
-## <img src="https://media.tenor.com/Ui4AT07IoKIAAAAi/star-spin.gif" width="50px"> Support
+## <img src="https://media.tenor.com/Cu0p-GeZHVQAAAAi/love-you.gif" width="42px"> Support
 <p><a href="https://www.buymeacoffee.com/josekab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josekab" /></a><a href="https://ko-fi.com/josekab"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="josekab" /></a></p><br><br>
