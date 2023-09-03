@@ -4,7 +4,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/josekab?style=social"> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/josekab?style=social">&nbsp;&nbsp;
 <a href="https://linkedin.com/in/josecarlosbarrantescarranza4" target="_blank">
-  <img src="https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  <img src="https://img.shields.io/badge/-JoseBarrantes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
