@@ -4,6 +4,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/josekab?style=social"> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/josekab?style=social"> &nbsp;&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josecarlosbarrantescarranza4)]
+[![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/pushpneet-singh-155a9015a/) 
 
   
 </p>
