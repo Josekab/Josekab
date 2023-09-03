@@ -12,10 +12,10 @@
 <a href="https://instagram.com/joseekab" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge">
 </a>
-<a href="https://www.facebook.com/tucuenta" target="_blank">
-  <img src="https://img.shields.io/badge/-tucuenta-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge">
+<a href="https://www.facebook.com/josecarlos.barrantes.4/" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge">
 </a>
-<a href="https://www.youtube.com/c/joseekab" target="_blank">
+<a href="https://www.youtube.com/@josekab04" target="_blank">
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
 </a>
 <a href="https://discord.gg/WCYDuFKW" target="_blank">
