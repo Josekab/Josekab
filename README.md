@@ -27,12 +27,20 @@
 <h3 align="center">A passionate developer from Costa Rica!</h3>
 <img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="400" align="right"/>
 
-<h3 align="left">About me:</h3>
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+</p>
 
 - 👨‍💻 All of my projects are available at <a href="https://josekab.github.io/portfolioo/">MY PORTFOLIO</a>
 - 🌱 I’m currently learning...
+- 🔭 I’m currently working on my side projects
 - 💬 Ask me about anything, I am happy to help!
-
+- 😄 Hobbies: Video Games!
+- ⚡ Fun fact: I'm an Aries. I have no fear of diving headfirst into the unknown🐏✨
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -60,7 +68,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 </p>
 
-## <img src="" width="50px"> About Some Stats
+## <img src="https://media.tenor.com/Ui4AT07IoKIAAAAi/star-spin.gif" width="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josekab&show_icons=true&locale=en&layout=compact" alt="josekab" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josekab&show_icons=true&locale=en" alt="josekab" />
