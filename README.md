@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=josekab&label=Profile%20views&color=0e75b6&style=flat" alt="josekab" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/josekab?style=social"> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/josekab?style=social"> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/tucuenta" target="_blank">Facebook</a>&nbsp;&nbsp;
+  
 </p>
 <h3 align="center">A passionate developer from Costa Rica!</h3>
 <img src="https://media.tenor.com/tbK7atZlDWMAAAAC/typing.gif" width="400" align="right"/>
